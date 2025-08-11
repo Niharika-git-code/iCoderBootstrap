@@ -38,7 +38,9 @@ Bootstrap – Layout and components
  
 
  - Clone this repository:
-```bash
+```
+bash
+
 git clone https://github.com/your-username/icoder.git
 
 ```
