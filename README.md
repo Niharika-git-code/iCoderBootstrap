@@ -31,7 +31,7 @@ Bootstrap – Layout and components
 
 ## 📸  Screenshot 
 
-  ![image alt[()
+  ![image alt](https://github.com/Niharika-git-code/iCoderBootstrap/blob/3789002bbe59a601ee24aaa4a92ac4ea4c1f8642/ss-1.png)
 
 
 ## 📖  How To Use
