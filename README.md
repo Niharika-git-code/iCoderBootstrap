@@ -48,7 +48,7 @@ git clone https://github.com/your-username/icoder.git
     
 ##  📄 License
 
-This project is licensed under the MIT License – you are free to use and modify it for personal or commercial purposes.
+This project is licensed under the MIT License .
 
 
 
